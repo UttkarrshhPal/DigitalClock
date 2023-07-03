@@ -1,0 +1,7 @@
+DIV and Span are used to structure webpage
+
+<div> Block Elment
+<span> Inline Element
+
+The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+___________________________________________
